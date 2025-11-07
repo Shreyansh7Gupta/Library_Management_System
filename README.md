@@ -49,9 +49,14 @@ All these are managed by the `Library` class, which coordinates between them and
 LibraryManagementSystem/
 |
 ├── library_management.py # Main Python code (your script)
+|
 ├── books.csv # Stored book data
+|
 ├── users.csv # Stored user data
+|
 ├── borrows.csv # Borrow and return records
+|
 └── README.md # Project documentation
+
 
 
